@@ -1,7 +1,8 @@
-<h1 align="center" style="color:#4CAF50">\hi and welcome!/</h1>
+<h1 align="center" style="color:#4CAF50">welcome!</h1>
 
 <p align="center">
-  <img src="https://source.unsplash.com/1000x300/?forest,night" width="100%" alt="Forest Banner">
+  <img src="![83803966d8161159fdc85210d6936ba6](https://github.com/user-attachments/assets/ea5a186f-1795-4b68-80b2-0246559aa644)
+" width="100%" alt="Forest Banner">
 </p>
 
 🌲 About me:
