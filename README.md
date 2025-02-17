@@ -12,4 +12,4 @@
 📫 Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=4CAF50)](https://t.me/yyohhaa)
 
-✨ *Thanks for wisiting!* ✨
+✨ *Thanks for visiting!* ✨
