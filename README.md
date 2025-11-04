@@ -15,8 +15,8 @@
 </a>  
 
 <a href="https://www.instagram.com/yyoha.a">
-  <img src="https://img.shields.io/static/v1?label=&message=Instagram&style=for-the-badge&logoColor=white"
-       style="height:28px; background: linear-gradient(90deg, #f9ce34, #ee2a7b, #6228d7); border-radius:4px; padding:4px 12px;">
+  <img src="https://img.shields.io/static/v1?label=&message=Instagram&style=for-the-badge&logoColor=C13584"
+       style="height:28px;">
 </a>  
 
 <a href="mailto:alyatohchukova0@gmail.com">
