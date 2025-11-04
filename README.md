@@ -11,19 +11,15 @@
 
 📫 **Contact me:**  
 <a href="https://t.me/mnogozznala">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=90e0ef" style="height:28px;">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=90e0ef" style="height:28px; width:160px;">
 </a>  
-
 <br>
-
 <a href="https://www.instagram.com/yyoha.a">
-  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" style="height:28px;">
+  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" style="height:28px; width:160px;">
 </a>  
-
 <br>
-
 <a href="mailto:alyatohchukova0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:28px;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:28px; width:160px;">
 </a>  
 
 ✨✨
