@@ -10,8 +10,15 @@
 - love art, graffiti and programming
 
 📫 **Contact me:**  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=52b788)](https://t.me/mnogozznala)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yyoha.a)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alyatohchukova0@gmail.com)
+<a href="https://t.me/mnogozznala">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=90e0ef" style="height:28px;">
+</a>
+<a href="https://www.instagram.com/yyoha.a">
+  <img src="https://img.shields.io/badge/Instagram-?style=for-the-badge&logo=instagram&logoColor=white"
+       style="height:28px; background: linear-gradient(90deg, #f9ce34, #ee2a7b, #6228d7); border-radius:4px; padding:4px 10px;">
+</a>
+<a href="mailto:alyatohchukova0@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=c71610" style="height:28px;">
+</a>
 
 ✨✨
