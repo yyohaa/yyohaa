@@ -5,9 +5,9 @@
 </p>
 
 🌲 **About me:**
-- work with **C#, SQL, HTML, CSS, JS**
-- interested in self-development, UX/UI and web design
-- love art, graffiti and programming
+- **C#, SQL, HTML, CSS, JS**;
+- UX/UI, web design, self-development;
+- programming, art, graffiti.
 
 📫 **Contact me:**  
 <a href="https://t.me/swagamegatron">
