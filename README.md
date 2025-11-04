@@ -10,7 +10,7 @@
 - love art, graffiti and programming
 
 📫 **Contact me:**  
-<a href="https://t.me/mnogozznala">
+<a href="https://t.me/swagamegatron">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=90e0ef" style="height:28px; width:110px;">
 </a>  
 <a href="https://www.instagram.com/yyoha.a">
