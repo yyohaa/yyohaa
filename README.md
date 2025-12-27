@@ -4,10 +4,10 @@
   <style="color: dark-green;font-weight:400;font-size:20px"alt="Forest Banner">
 </p>
 
-🌲 **About me:**
+**About me:**
 - **C#, SQL, HTML, CSS, JS**;
-- UX/UI, web design, self-development;
-- programming, art, graffiti.
+- UX/UI, web design, programming;
+- self-development, art, graffiti.
 
 📫 **Contact me:**  
 <a href="https://t.me/swagamegatron">
