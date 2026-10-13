@@ -1,18 +1,27 @@
 <h1 align="center" style="color:#013220">𝚠𝚎𝚕𝚌𝚘𝚖𝚎!</h1>
 
 <p align="center">
-  <style="color: dark-green;font-weight:400;font-size:20px"alt="Forest Banner">
+  <img src="https://64.media.tumblr.com/2d3ba9dfb1434407132bbfec6908dcb8/69dcda1eed0fee42-28/s250x400/8d68ef942c413051b96dcd715a7b769f982a5a99.gifv" alt="Forest Banner" style="max-width: 100%;">
 </p>
+
 <h3 align="center" style="color:#013220">meowmeow</h3>
 
-📫 **Contact me:**  
+📫 **Contact me:**
 
-<a align="center" href="https://t.me/mnogozznala">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=90e0ef" style="height:28px; width:110px;">
-</a>  
-<a align="center"  href="https://www.instagram.com/yyoha.a">
-  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" style="height:28px; width:110px;">
-</a>  
-<a align="center" href="mailto:alyatohchukova0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:28px; width:110px;">
-</a>  
+<p align="center">
+  <a href="https://t.me/mnogozznala">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=90e0ef" alt="Telegram">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/yyoha.a">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:alyatohchukova0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
