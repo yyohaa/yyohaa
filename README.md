@@ -21,3 +21,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:28px; width:110px;">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/095f24c980f4d979d8e76c01c5fa061e/be1e569ed8e85fdd-6d/s2048x3072/ad8fec98d0b952fcfde551e8d4062c48d31fc901.gifv" alt="Forest Banner" style="max-width: 100%;">
+</p>
