@@ -5,7 +5,7 @@
 </p>
 <h3 align="center" style="color:#013220">meowmeow</h3>
 
-    📫 **Contact me:**  
+📫 **Contact me:**  
 
 <a href="https://t.me/mnogozznala">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=90e0ef" style="height:28px; width:110px;">
